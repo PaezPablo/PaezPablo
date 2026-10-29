@@ -1,66 +1,47 @@
-<h1 align="center">Hi , I'm Pablo Paez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,25,30&height=200&section=header&text=Hola,%20soy%20Pablo%20Paez&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20Frontend%20&%20Apasionado%20por%20la%20Tecnología&descSize=16&descAlignY=62" width="100%" />
+</p>
 
-<img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
+<div align="center">
+  <h3>⚡ Creando experiencias web modernas y escalables ⚡</h3>
+</div>
 
-**Talking about Personal Stuffs:**
+---
 
-- 👨🏽‍💻  I’m currently working on something cool :wink:.
-- 🌱  I’m currently learning ...
-      <br>- React js
-  <br>
-      - Tailwind CSS 
-- 📫  How to reach me: pablopaez9612@gmail.com.
+### 👨🏽‍💻 Sobre mí
 
-***
+- 🔭 Actualmente trabajando en proyectos desafiantes y mejorando mis habilidades.
+- 🌱 Aprendiendo y profundizando en **React.js** y **Tailwind CSS**.
+- ✉️ ¿Hablamos?: [pablopaez9612@gmail.com](mailto:pablopaez9612@gmail.com)
 
-## 🚀💻 Technologies & Tools
+---
 
-### <u> Languages: </u>
+### 🚀 Tecnologías & Herramientas
 
-<br>
+<div align="center">
 
-<span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 logo" title="HTML5" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 logo" title="CSS3" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
-&nbsp;
-<br>
+  <h4>🌐 Lenguajes & Frontend</h4>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 
-### <u> Frontend Development Technologies and Tools: </u>
+  <h4>⚙️ Backend & Control de Versiones</h4>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 
-<br>
+  <h4>💻 Entorno & Herramientas</h4>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
 
-<span><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
-&nbsp;
+</div>
 
-### <u> Backend Development: </u>
+---
 
-<br>
+### 📈 Estadísticas de GitHub
 
-<span><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js logo" title="Node.js" height="25" /></span>
-&nbsp;
-
-### <u> Version Control and Tools:</u>
-
-<br>
-
-<span><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git logo" title="Git" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github logo" title="Github" height="25" /></span>
-&nbsp;
-
-### <u> Operating Systems and Others:</u>
-
-<br>
-
-<span>
-<img src = "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Logo"  title="Windows" height="25"/>
-</span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
-&nbsp;
-
-<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="GitHub Stats" />
+</div>
