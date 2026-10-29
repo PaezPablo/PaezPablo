@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,25,30&height=180&section=header&text=Pablo%20Paez&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Frontend%20Developer&descSize=18&descAlignY=65" width="100%" />
 </p>
 
+<div align="center">
+  <h3>⚡ Desarrollador Frontend ⚡</h3>
+</div>
+
 ---
 
 ### 👨🏽‍💻 Sobre mí
@@ -48,6 +52,10 @@
 
 <div align="center">
 
+  <a href="https://paezpablo.github.io/Portfolio-web/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/paezpablopy/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
