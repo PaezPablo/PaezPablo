@@ -53,5 +53,5 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PaezPablo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaezPablo&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Top Langs" />
 </div>
