@@ -2,9 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,25,30&height=180&section=header&text=Pablo%20Paez&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Frontend%20Developer&descSize=18&descAlignY=65" width="100%" />
 </p>
 
-<div align="center">
-  <h3>⚡ Desarrollador Frontend ⚡</h3>
-</div>
 
 ---
 
